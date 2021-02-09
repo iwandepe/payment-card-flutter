@@ -1,4 +1,4 @@
-package com.iwandp
+package com.iwandepe
 
 import io.flutter.embedding.android.FlutterActivity
 
